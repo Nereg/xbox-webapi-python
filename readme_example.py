@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # this is just script from README.md
+=======
+# this is just scrip from README.md
+>>>>>>> db98c94... Fixed README script
 import sys
 import asyncio
 from aiohttp import ClientSession
